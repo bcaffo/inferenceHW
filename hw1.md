@@ -19,6 +19,9 @@ mode        : selfcontained # {standalone, draft}
 - These are some practice problems for Statistical Inference Quiz 1
 - They were created using slidify interactive which you will learn in 
 Creating Data Products
+- Please help improve this with pull requests here
+(https://github.com/bcaffo/courses)
+
 
 --- &radio
 
